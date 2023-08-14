@@ -1,0 +1,8 @@
+package ianywhere.ultralitej.demo;
+import ianywhere.ultralitej.*;
+/**
+ * CreateDb: sample program to demonstrate creation of simple sales Database and
+ * load it with some data.
+ * <p>The program also illustrates the use of ordinals when inserting rows into tables.
+ */
+public class CreateSales
