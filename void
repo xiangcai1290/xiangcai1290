@@ -1,0 +1,11 @@
+} 
+ 
+  public void handleError() 
+  throws CDSEventServiceSubscriberException {} 
+ 
+  private static void displayUsage() 
+  { 
+    System.out.println(); 
+    System.out.print("Usage :java CDSBillingSubscriber "); 
+    System.out.print("clientID subName selector "); 
+    System.out.print("durable transactional "); 
